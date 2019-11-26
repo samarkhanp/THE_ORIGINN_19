@@ -11,7 +11,7 @@
 
 body {
   background: #fff;
-  color: dodgerblue;
+  color: black;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -43,7 +43,7 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: dodgerblue;
+  color: black;
 }
 
 .main-page {
