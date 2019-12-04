@@ -1732,11 +1732,5 @@ body.mobile-nav-active #mobile-nav-toggle {
 #popupCloseButton:hover {
     background-color: #ccc;
 }
-#trigger_popup_fricc {
-    cursor: pointer;
-    font-size: 20px;
-    margin: 20px;
-    display: inline-block;
-    font-weight: bold;
-}
+
 /* Popup box BEGIN */
